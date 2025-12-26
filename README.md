@@ -1,4 +1,4 @@
-a## Totems Of Fumo
+## Totems Of Fumo
 
 An unofficial port of the resource pack **[Totem Of Fumo](https://www.curseforge.com/minecraft/texture-packs/totem-of-fumo)** for Minecraft versions **1.21 to 1.21.8**.
 
