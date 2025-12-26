@@ -1,0 +1,419 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/alice"
+        
+    },
+    "when": "Alice"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/aya"
+        
+    },
+    "when": "Aya"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/blue_reimu"
+        
+    },
+    "when": "Blue Reimu"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/chen"
+        
+    },
+    "when": "Chen"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/cherries_shion"
+        
+    },
+    "when": "Cherries shion"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/chimata"
+        
+    },
+    "when": "Chimata"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/cirno"
+        
+    },
+    "when": "Cirno"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/clownpiece"
+        
+    },
+    "when": "Clownpiece"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/elma"
+        
+    },
+    "when": "Elma"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/flan"
+        
+    },
+    "when": "Flandre"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/flonne"
+        
+    },
+    "when": "Flonne"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/hatate"
+        
+    },
+    "when": "Hatate"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/kaguya"
+        
+    },
+    "when": "Kaguya"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/kanmarisa"
+        
+    },
+    "when": "Kanmarisa"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/koishi"
+        
+    },
+    "when": "Koishi"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/kokoro"
+        
+    },
+    "when": "Kokoro"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/korone"
+        
+    },
+    "when": "Korone"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/kyou"
+        
+    },
+    "when": "Kyou"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/marisa"
+        
+    },
+    "when": "Marisa"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/mcky"
+        
+    },
+    "when": "Mcky"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/melon"
+        
+    },
+    "when": "Melon"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/mokou"
+        
+    },
+    "when": "Mokou"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/momiji"
+        
+    },
+    "when": "Momiji"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/mystia"
+        
+    },
+    "when": "Mystia"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/nazrin"
+        
+    },
+    "when": "Nazrin"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/nebula"
+        
+    },
+    "when": "Nebula"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/nebumo"
+        
+    },
+    "when": "Nebumo"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/nebuo"
+        
+    },
+    "when": "Nebuo"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/nue"
+        
+    },
+    "when": "Nue"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/patchouli"
+        
+    },
+    "when": "Patchouli"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/parsee"
+        
+    },
+    "when": "Parsee"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/pc98_marisa"
+        
+    },
+    "when": "PC98 Marisa"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/ran"
+        
+    },
+    "when": "Ran"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/reimu"
+        
+    },
+    "when": "Reimu"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/reisen"
+        
+    },
+    "when": "Reisen"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/remilia"
+        
+    },
+    "when": "Remilia"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/renko"
+        
+    },
+    "when": "Renko"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/rumia"
+        
+    },
+    "when": "Rumia"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/sakuya"
+        
+    },
+    "when": "Sakuya"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/sanae"
+        
+    },
+    "when": "Sanae"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/satori"
+        
+    },
+    "when": "Satori"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/seija"
+        
+    },
+    "when": "Seija"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/shion"
+        
+    },
+    "when": "Shion"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/shiro"
+        
+    },
+    "when": "Shiro"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/shou"
+        
+    },
+    "when": "Shou"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/smart_cirno"
+        
+    },
+    "when": "Smart Cirno"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/snailchan"
+        
+    },
+    "when": "Snailchan"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/suika"
+        
+    },
+    "when": "Suika"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/suwako"
+        
+    },
+    "when": "Suwako"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/tenshi"
+        
+    },
+    "when": "Tenshi"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/tewi"
+        
+    },
+    "when": "Tewi"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/utsuho"
+        
+    },
+    "when": "Utsuho"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/wakasagihime"
+        
+    },
+    "when": "Wakasagihime"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/youmu"
+        
+    },
+    "when": "Youmu"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/yue"
+        
+    },
+    "when": "Yue"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/yukari"
+        
+    },
+    "when": "Yukari"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/yuuka"
+        
+    },
+    "when": "Yuuka"
+},{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/yuyuko"
+        
+    },
+    "when": "Yuyuko"
+}
+        ],
+        "fallback": {
+            "type":"minecraft:model","model":"minecraft:item/totem_of_undying"
+        }
+    }
+}
